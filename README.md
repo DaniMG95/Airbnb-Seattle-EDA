@@ -27,14 +27,14 @@ This repository contains the following files :
 * **requirements.txt** : It contains the requirements of all the libraries I have used.
 ## Motivation
 
-Airbnb is a company that facilitates the rental of houses to third parties, obtaining an affordable accommodation for the taste of anyone.
-Therefore, this company has improved tourism to other countries and also gives the facility to register your house to get extra money.
+Airbnb is a company that facilitates the rental of houses to third parties, obtaining an affordable accommodation for the taste of anyone.  
+Therefore, this company has improved tourism to other countries and also gives the facility to register your house to get extra money.  
 This repository is in charge of analyzing this data from Seattle 2016 and getting a better understanding of the situation of Airbnb in Seattle and the possible variables that can make your rental go better.
 
 
 ## Summary of results
 
-The interesting data that I have obtained when analyzing these data has been that the neighborhoods in which you put your house to rent is very important since this influences that the visitors want to go to your house, since some neighborhoods have low levels of occupation of houses and in addition they received serious critics of the bad state of the neighborhood and to have been conflicting.
-Another important fact is that the temporal evolution of Airbnb in these data is very worrying because the evolution is decreasing constantly as a function of time, but has a season of rebound that helps the business is not at risk. These upturns will be made in clear seasons of increased tourism in Seattle, another thing to keep in mind is that the type of room you rent has much to do with the demand for that house, because if you rent a whole house has a high demand but if you rent a shared room has a very low value.
-Finally, I wanted to find out if there was a correlation between the characteristics and the price of the apartment and thus obtain which variables give greater value, namely the price of a rent in airbnb and therefore, I analyzed that if the room is shared, it is normal that if a room is shared the price of it is lower than a complete house.
+The interesting data that I have obtained when analyzing these data has been that the neighborhoods in which you put your house to rent is very important since this influences that the visitors want to go to your house, since some neighborhoods have low levels of occupation of houses and in addition they received serious critics of the bad state of the neighborhood and to have been conflicting.  
+Another important fact is that the temporal evolution of Airbnb in these data is very worrying because the evolution is decreasing constantly as a function of time, but has a season of rebound that helps the business is not at risk. These upturns will be made in clear seasons of increased tourism in Seattle, another thing to keep in mind is that the type of room you rent has much to do with the demand for that house, because if you rent a whole house has a high demand but if you rent a shared room has a very low value.  
+Finally, I wanted to find out if there was a correlation between the characteristics and the price of the apartment and thus obtain which variables give greater value, namely the price of a rent in airbnb and therefore, I analyzed that if the room is shared, it is normal that if a room is shared the price of it is lower than a complete house.  
 And another factor to take into account was that the price of the house also has a correlation with the neighborhood you are in and the number of bathrooms and beds you have.
