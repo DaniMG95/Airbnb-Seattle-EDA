@@ -3,6 +3,7 @@
 <img src="https://www.visittheusa.co/sites/default/files/styles/hero_m_1300x700/public/images/hero_media_image/2017-03/f3d1f001ce1e4f874adc9a88fd9fb095.jpeg?itok=DHjISMr_">
 
 This repository contains the study of Airbnb data, which has been provided to us by the Kaggle platform.  
+The link to this story in my blog [here](https://medium.com/@dani16595/you-want-to-travel-and-you-dont-know-where-it-s-worth-it-the-data-has-that-answer-bd83c459bc89?source=friends_link&sk=7336fdec6dd7d30ea991da0b76fd4441)  
 This data will help us to answer 3 questions that we have about Airbnb in Seattle and I also encourage to get interesting data to all who are watching this repository.  
 
 ## Libraries
